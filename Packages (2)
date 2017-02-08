@@ -1,0 +1,13 @@
+Package: com.zal.centerspring
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Zalol <austinkincaidaitr@gmail.com>
+Filename: /centerspring.deb
+Size: 8708
+MD5sum: 28e00723db1d61cbc4c0c97fd2d52016
+SHA1: 01bd24a7485e21fc09cc1b80926e707d7ce00d1c
+SHA256: 72ca400f81853124d773fe42fca9f587f2fbfb7fbbb953e74e49008d46cd38bd
+Section: Tweaks
+Description: Test Tweak for my repo
+Author: Zalol <austinkincaidaitr@gmail.com>
+Name: centerspring 1

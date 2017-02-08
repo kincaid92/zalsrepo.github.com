@@ -1,0 +1,13 @@
+Package: com.zal.HaptikCenter
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Zalol <austinkincaidaitr@gmail.com>
+Filename: /HaptikCenter.deb
+Size: 1048062
+MD5sum: 2b77055ca7e9b7acf2f762de5ab7dc01
+SHA1: 41324b98d1cbbd1f5a9e6dae9773e9f04050acd0
+SHA256: 5b77813be447aec6b7d98eb4f3d42ef1f98275298f9f1578d6942656bf3b85c1
+Section: Tweaks
+Description: Test Tweak for my repo
+Author: Zalol <austinkincaidaitr@gmail.com>
+Name: HaptikCenter 1

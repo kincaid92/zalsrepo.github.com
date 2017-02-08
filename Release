@@ -1,8 +1,8 @@
-Origin: Zals Repo
-Label: Hit it up
+Origin: Zalols Repository
+Label: Zalols Repository
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Zalol's Repository
+Description: Zalols Repository
